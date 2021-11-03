@@ -1,3 +1,10 @@
+/*
+ *
+ * @author Tevfik Kesici
+ * @since 24.10.2021
+ *
+*/
+
 public class Transpose {
     public static void main(String[] args) {
 
